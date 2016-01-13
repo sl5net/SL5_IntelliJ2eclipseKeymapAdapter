@@ -15,6 +15,8 @@ And yet, the switching process took me some time. Especially learning new shortc
 To get Eclipse Shortcuts, go to "Settings" and type "keymap". Then select Eclipse on the list."
 http://stackoverflow.com/questions/1472861/keyboard-shortcut-synchronization-with-eclipse-and-idea 
 
+links:
+http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/6/
 
 
 
@@ -34,6 +36,15 @@ Usage
 >* start<br>
 > --   SL5_IntelliJ2eclipseKeymapAdapter.ahk
 
+Wikipedia
+-------
+
+From Wikipedia, the free encyclopedia ( https://en.wikipedia.org/wiki/IntelliJ_IDEA )
+IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition,[1] and in a proprietary commercial edition.
+
+
+From Wikipedia, the free encyclopedia ( https://en.wikipedia.org/wiki/Eclipse_(software) )
+Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Eclipse is written mostly in Java and its primary use is for developing Java applications
 
 
 License
