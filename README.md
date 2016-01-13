@@ -25,7 +25,7 @@ SL5_IntelliJ2eclipseKeymapAdapter is written in autohotkey.
 Planned features:
 -----
 
-The features listed here are planned for future versions of SL5_AHK_Refactor_engine and may change during the course of development.
+The features listed here are planned for future versions of SL5_IntelliJ2eclipseKeymapAdapter and may change during the course of development.
 
 - SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that IntelliJ2 keymaps.
 
