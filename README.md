@@ -2,11 +2,6 @@
 SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that is supposed to have that IntelliJ2 keymaps.
 
 
-SL5_IntelliJ2eclipseKeymapAdapter
-=====
-
-SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that is supposed to have that IntelliJ2 keymaps.
-
 BTW. Some quotes:
 
 "When you switch to a different IDE one of the things you miss most is your old favourite keyboard shortcuts."
