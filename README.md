@@ -1,5 +1,5 @@
 # SL5_IntelliJ2eclipseKeymapAdapter
-SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that is supposed to have that IntelliJ2 keymaps.
+SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that IntelliJ2 keymaps.
 
 
 BTW. Some quotes:
@@ -27,7 +27,7 @@ Planned features:
 
 The features listed here are planned for future versions of SL5_AHK_Refactor_engine and may change during the course of development.
 
-- SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that is supposed to have that IntelliJ2 keymaps.
+- SL5_IntelliJ2eclipseKeymapAdapter is supposed to have that IntelliJ2 keymaps.
 
 
 Usage
